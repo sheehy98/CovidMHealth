@@ -1,0 +1,919 @@
+State,Period,Depression_Score,Anxiety_Score,Mix_Score
+Alabama,1,18.6,25.6,30.3
+Alaska,1,19.2,27.7,31.5
+Arizona,1,22.4,32.3,36.4
+Arkansas,1,26.6,33.7,38.0
+California,1,25.4,30.8,37.4
+Colorado,1,22.0,32.6,35.9
+Connecticut,1,24.4,34.9,40.2
+Delaware,1,21.1,29.9,34.7
+District of Columbia,1,26.4,31.4,37.6
+Florida,1,22.5,32.6,36.8
+Georgia,1,25.6,31.9,36.2
+Hawaii,1,20.0,32.3,37.0
+Idaho,1,20.6,26.9,33.3
+Illinois,1,23.3,31.1,36.6
+Indiana,1,26.4,31.8,37.8
+Iowa,1,16.5,22.5,28.2
+Kansas,1,22.1,26.4,32.5
+Kentucky,1,23.2,31.6,36.4
+Louisiana,1,28.1,34.4,38.9
+Maine,1,19.5,29.5,34.3
+Maryland,1,20.9,27.7,32.9
+Massachusetts,1,25.9,37.0,40.6
+Michigan,1,25.5,32.5,39.4
+Minnesota,1,20.4,28.5,32.4
+Mississippi,1,22.9,30.3,34.5
+Missouri,1,21.0,30.4,35.2
+Montana,1,18.2,22.8,27.3
+Nebraska,1,19.1,24.2,28.6
+Nevada,1,23.6,31.4,34.8
+New Hampshire,1,19.5,31.3,34.8
+New Jersey,1,23.6,31.4,37.6
+New Mexico,1,22.4,27.9,34.6
+New York,1,28.7,36.1,41.4
+North Carolina,1,21.1,30.0,34.6
+North Dakota,1,17.0,21.7,27.7
+Ohio,1,21.2,31.1,35.1
+Oklahoma,1,20.8,28.6,34.1
+Oregon,1,22.5,31.5,36.8
+Pennsylvania,1,24.7,31.0,35.1
+Rhode Island,1,24.5,27.6,34.4
+South Carolina,1,21.6,27.8,33.3
+South Dakota,1,17.5,22.1,25.6
+Tennessee,1,22.2,28.2,33.4
+Texas,1,24.4,29.7,34.9
+Utah,1,22.9,28.9,34.7
+Vermont,1,20.7,30.6,33.9
+Virginia,1,21.5,28.5,33.7
+Washington,1,22.1,30.6,35.0
+West Virginia,1,23.4,28.8,34.3
+Wisconsin,1,22.0,27.1,31.1
+Wyoming,1,18.9,24.9,31.0
+Alabama,2,22.5,27.2,30.6
+Alaska,2,25.1,27.4,35.7
+Arizona,2,25.3,34.2,38.4
+Arkansas,2,24.5,29.1,33.0
+California,2,22.8,31.4,34.4
+Colorado,2,23.6,29.7,32.2
+Connecticut,2,21.5,29.1,36.0
+Delaware,2,23.3,24.9,31.6
+District of Columbia,2,30.3,36.2,40.6
+Florida,2,24.8,27.6,33.6
+Georgia,2,25.6,29.5,34.3
+Hawaii,2,16.8,20.4,27.1
+Idaho,2,17.0,25.0,29.2
+Illinois,2,29.2,35.7,41.8
+Indiana,2,19.9,31.5,34.9
+Iowa,2,18.1,20.3,26.1
+Kansas,2,16.7,25.1,28.0
+Kentucky,2,25.6,29.6,37.7
+Louisiana,2,30.0,34.6,42.8
+Maine,2,17.1,28.9,32.9
+Maryland,2,24.6,30.1,34.6
+Massachusetts,2,18.9,28.7,31.0
+Michigan,2,23.4,27.0,33.4
+Minnesota,2,18.4,22.9,27.2
+Mississippi,2,35.5,38.3,48.4
+Missouri,2,24.1,37.8,41.3
+Montana,2,20.8,24.9,27.6
+Nebraska,2,21.6,29.6,33.4
+Nevada,2,31.2,34.0,38.1
+New Hampshire,2,23.3,30.4,35.0
+New Jersey,2,26.4,36.3,39.6
+New Mexico,2,29.0,30.2,39.8
+New York,2,29.2,33.0,36.9
+North Carolina,2,20.2,25.9,28.1
+North Dakota,2,20.2,25.4,28.6
+Ohio,2,26.4,26.4,32.8
+Oklahoma,2,20.7,27.2,31.0
+Oregon,2,17.8,26.2,29.9
+Pennsylvania,2,23.0,28.4,32.0
+Rhode Island,2,22.8,26.9,33.8
+South Carolina,2,25.6,27.9,33.1
+South Dakota,2,20.5,26.1,29.8
+Tennessee,2,21.7,29.6,34.7
+Texas,2,25.7,32.4,35.9
+Utah,2,22.6,26.0,30.4
+Vermont,2,26.8,31.8,35.7
+Virginia,2,20.6,26.8,30.6
+Washington,2,22.9,28.5,35.0
+West Virginia,2,31.8,34.6,39.0
+Wisconsin,2,22.9,25.6,29.7
+Wyoming,2,18.6,22.5,27.9
+Alabama,3,19.6,20.7,25.2
+Alaska,3,23.6,26.2,32.7
+Arizona,3,20.0,29.0,32.1
+Arkansas,3,28.9,28.7,35.2
+California,3,28.7,32.3,38.8
+Colorado,3,23.7,27.6,33.1
+Connecticut,3,20.2,28.7,33.9
+Delaware,3,21.8,26.6,31.8
+District of Columbia,3,25.9,33.3,37.3
+Florida,3,24.3,28.2,33.5
+Georgia,3,24.8,27.6,33.6
+Hawaii,3,21.3,24.1,29.1
+Idaho,3,18.1,24.0,27.6
+Illinois,3,24.3,28.5,35.2
+Indiana,3,24.5,32.6,37.3
+Iowa,3,18.6,19.0,23.8
+Kansas,3,21.2,26.7,31.1
+Kentucky,3,22.8,27.7,35.5
+Louisiana,3,26.5,27.9,34.2
+Maine,3,25.6,30.6,34.2
+Maryland,3,20.8,28.3,32.7
+Massachusetts,3,22.8,27.4,32.0
+Michigan,3,27.9,28.5,35.0
+Minnesota,3,20.0,27.1,29.7
+Mississippi,3,36.4,36.1,44.3
+Missouri,3,24.3,30.4,35.4
+Montana,3,21.1,25.7,29.7
+Nebraska,3,20.4,23.3,26.2
+Nevada,3,26.9,29.0,36.9
+New Hampshire,3,20.3,25.2,28.8
+New Jersey,3,26.9,34.4,39.3
+New Mexico,3,28.4,29.6,37.4
+New York,3,23.8,26.8,34.9
+North Carolina,3,22.6,28.4,32.2
+North Dakota,3,22.5,26.2,31.9
+Ohio,3,27.0,26.2,33.9
+Oklahoma,3,25.7,25.2,29.8
+Oregon,3,22.7,24.2,31.7
+Pennsylvania,3,19.8,25.8,30.0
+Rhode Island,3,18.8,23.9,26.2
+South Carolina,3,25.3,28.5,31.3
+South Dakota,3,22.7,22.3,27.8
+Tennessee,3,25.6,24.8,32.5
+Texas,3,24.9,28.8,34.8
+Utah,3,21.2,26.1,30.3
+Vermont,3,19.0,25.8,29.6
+Virginia,3,25.4,26.8,32.2
+Washington,3,23.2,28.9,33.0
+West Virginia,3,27.0,29.3,34.3
+Wisconsin,3,20.3,23.4,28.0
+Wyoming,3,20.7,24.1,28.0
+Alabama,4,20.9,25.2,28.8
+Alaska,4,26.8,31.6,36.4
+Arizona,4,25.1,29.3,35.5
+Arkansas,4,23.8,28.6,33.8
+California,4,26.9,30.4,36.2
+Colorado,4,25.5,28.8,33.5
+Connecticut,4,21.0,24.7,28.0
+Delaware,4,22.7,24.2,31.1
+District of Columbia,4,20.9,29.9,34.2
+Florida,4,28.6,34.1,39.1
+Georgia,4,27.7,32.6,37.5
+Hawaii,4,18.5,19.6,26.6
+Idaho,4,18.9,22.1,24.8
+Illinois,4,24.2,30.3,35.6
+Indiana,4,24.8,30.5,35.2
+Iowa,4,17.6,20.6,25.9
+Kansas,4,25.2,30.1,33.2
+Kentucky,4,23.2,30.8,34.7
+Louisiana,4,31.1,36.0,41.4
+Maine,4,18.5,24.5,27.8
+Maryland,4,22.9,25.8,31.6
+Massachusetts,4,20.3,25.5,29.5
+Michigan,4,25.1,27.5,32.8
+Minnesota,4,17.7,22.8,26.1
+Mississippi,4,27.7,31.9,37.8
+Missouri,4,24.3,29.0,32.9
+Montana,4,22.2,24.3,30.7
+Nebraska,4,17.2,22.6,28.1
+Nevada,4,27.1,35.6,40.7
+New Hampshire,4,22.2,24.6,31.1
+New Jersey,4,22.9,26.2,31.1
+New Mexico,4,28.7,35.4,39.1
+New York,4,23.7,30.6,34.4
+North Carolina,4,22.1,27.5,32.3
+North Dakota,4,19.8,22.1,28.1
+Ohio,4,27.4,29.8,34.6
+Oklahoma,4,27.5,27.3,32.8
+Oregon,4,24.2,32.1,35.3
+Pennsylvania,4,25.9,28.0,33.9
+Rhode Island,4,21.4,30.6,33.8
+South Carolina,4,21.7,27.0,32.2
+South Dakota,4,25.8,30.4,36.3
+Tennessee,4,22.5,29.6,33.1
+Texas,4,28.8,32.6,37.7
+Utah,4,24.9,25.5,31.9
+Vermont,4,19.4,23.3,28.8
+Virginia,4,22.3,28.7,33.1
+Washington,4,22.2,26.8,31.8
+West Virginia,4,22.0,34.5,37.9
+Wisconsin,4,20.8,24.7,28.9
+Wyoming,4,18.8,24.0,28.3
+Alabama,5,28.4,31.6,37.5
+Alaska,5,24.4,26.1,31.6
+Arizona,5,23.9,27.9,32.6
+Arkansas,5,28.9,35.3,39.0
+California,5,26.9,33.8,38.6
+Colorado,5,23.9,29.4,33.6
+Connecticut,5,25.4,26.7,35.1
+Delaware,5,20.7,26.2,30.3
+District of Columbia,5,21.3,28.2,33.0
+Florida,5,29.6,33.8,40.0
+Georgia,5,24.5,31.7,34.9
+Hawaii,5,17.0,20.7,26.1
+Idaho,5,23.8,28.3,31.8
+Illinois,5,26.9,31.3,37.0
+Indiana,5,25.6,31.5,36.2
+Iowa,5,22.6,27.8,32.9
+Kansas,5,23.1,28.3,32.0
+Kentucky,5,28.5,33.3,39.0
+Louisiana,5,26.8,31.0,36.3
+Maine,5,18.5,25.2,29.3
+Maryland,5,21.9,26.1,30.8
+Massachusetts,5,20.3,26.7,29.9
+Michigan,5,25.9,29.0,34.5
+Minnesota,5,19.1,27.5,30.0
+Mississippi,5,28.6,33.8,38.7
+Missouri,5,24.5,30.1,33.7
+Montana,5,20.5,22.6,28.6
+Nebraska,5,18.2,22.2,26.6
+Nevada,5,20.2,30.3,34.2
+New Hampshire,5,22.6,26.7,31.8
+New Jersey,5,25.8,31.8,36.5
+New Mexico,5,24.3,37.1,39.5
+New York,5,24.5,29.8,34.8
+North Carolina,5,22.3,29.6,33.0
+North Dakota,5,19.3,18.4,26.0
+Ohio,5,28.1,29.6,37.0
+Oklahoma,5,31.8,31.7,38.6
+Oregon,5,27.6,35.3,39.5
+Pennsylvania,5,24.6,31.4,35.1
+Rhode Island,5,22.3,30.8,34.0
+South Carolina,5,28.8,29.2,35.6
+South Dakota,5,20.0,26.3,29.7
+Tennessee,5,22.9,30.4,33.6
+Texas,5,26.2,31.1,36.9
+Utah,5,22.3,29.7,34.5
+Vermont,5,23.5,31.8,35.3
+Virginia,5,21.4,28.3,31.4
+Washington,5,27.1,31.7,36.7
+West Virginia,5,26.2,33.6,38.9
+Wisconsin,5,17.7,22.7,26.7
+Wyoming,5,25.2,25.3,32.9
+Alabama,6,27.7,33.7,36.9
+Alaska,6,21.5,26.2,35.2
+Arizona,6,26.5,30.8,36.8
+Arkansas,6,26.5,31.6,38.2
+California,6,28.6,33.7,39.7
+Colorado,6,23.9,30.9,34.7
+Connecticut,6,20.7,27.7,32.8
+Delaware,6,25.3,28.5,33.0
+District of Columbia,6,25.9,33.0,39.5
+Florida,6,30.2,34.8,40.7
+Georgia,6,25.6,32.7,35.7
+Hawaii,6,19.5,20.7,27.5
+Idaho,6,19.2,28.6,32.0
+Illinois,6,27.9,34.2,39.5
+Indiana,6,22.2,28.7,32.1
+Iowa,6,25.7,31.9,34.9
+Kansas,6,28.6,29.9,36.6
+Kentucky,6,25.5,33.0,37.6
+Louisiana,6,28.4,32.5,36.5
+Maine,6,20.6,31.5,35.4
+Maryland,6,18.4,22.8,26.9
+Massachusetts,6,21.8,26.1,31.0
+Michigan,6,19.1,24.6,28.1
+Minnesota,6,19.7,27.5,31.0
+Mississippi,6,29.6,31.9,38.4
+Missouri,6,23.1,23.2,29.5
+Montana,6,17.5,26.4,30.4
+Nebraska,6,21.7,23.5,31.0
+Nevada,6,27.6,33.3,38.5
+New Hampshire,6,26.2,31.7,35.1
+New Jersey,6,21.8,30.7,33.8
+New Mexico,6,23.7,28.6,34.7
+New York,6,28.5,36.3,38.6
+North Carolina,6,21.6,33.3,36.2
+North Dakota,6,14.7,20.2,23.0
+Ohio,6,26.4,30.6,36.9
+Oklahoma,6,24.7,28.9,33.7
+Oregon,6,27.1,35.0,40.5
+Pennsylvania,6,24.7,29.2,33.9
+Rhode Island,6,19.0,26.6,29.2
+South Carolina,6,25.0,23.7,31.4
+South Dakota,6,21.2,25.6,29.8
+Tennessee,6,27.2,30.6,38.0
+Texas,6,30.3,33.0,39.6
+Utah,6,25.3,28.0,34.1
+Vermont,6,25.1,29.8,33.7
+Virginia,6,27.5,29.5,36.5
+Washington,6,21.4,29.4,31.9
+West Virginia,6,27.9,35.8,38.9
+Wisconsin,6,19.5,25.3,28.3
+Wyoming,6,20.9,21.3,29.4
+Alabama,7,26.7,33.9,38.1
+Alaska,7,23.5,33.3,36.5
+Arizona,7,25.0,25.6,33.3
+Arkansas,7,29.6,33.7,39.0
+California,7,27.2,33.7,37.9
+Colorado,7,22.1,29.8,33.5
+Connecticut,7,25.5,35.1,38.7
+Delaware,7,24.4,30.2,34.7
+District of Columbia,7,16.3,25.9,28.9
+Florida,7,28.1,37.4,41.8
+Georgia,7,25.7,33.3,37.1
+Hawaii,7,26.8,31.7,35.3
+Idaho,7,14.3,26.0,27.8
+Illinois,7,24.8,31.0,34.6
+Indiana,7,26.6,33.8,39.3
+Iowa,7,22.4,26.1,31.6
+Kansas,7,24.6,30.5,37.1
+Kentucky,7,22.6,26.6,31.9
+Louisiana,7,34.5,38.4,43.5
+Maine,7,23.7,32.2,37.9
+Maryland,7,27.9,34.6,38.3
+Massachusetts,7,17.0,27.3,29.2
+Michigan,7,21.4,30.2,32.4
+Minnesota,7,19.9,28.0,30.5
+Mississippi,7,24.8,31.6,37.5
+Missouri,7,26.1,33.3,36.5
+Montana,7,21.8,30.6,34.2
+Nebraska,7,20.3,24.1,29.7
+Nevada,7,30.4,33.5,37.9
+New Hampshire,7,21.7,28.1,33.4
+New Jersey,7,26.9,33.5,38.7
+New Mexico,7,18.8,22.7,25.5
+New York,7,23.4,28.7,32.9
+North Carolina,7,23.9,30.0,36.2
+North Dakota,7,23.4,30.3,33.6
+Ohio,7,26.8,31.5,35.6
+Oklahoma,7,22.5,30.9,34.9
+Oregon,7,31.1,39.8,43.5
+Pennsylvania,7,25.5,28.4,35.0
+Rhode Island,7,24.1,25.5,32.2
+South Carolina,7,28.1,30.6,35.5
+South Dakota,7,19.2,24.5,28.0
+Tennessee,7,21.5,28.7,31.7
+Texas,7,27.6,35.5,39.5
+Utah,7,18.5,32.0,36.0
+Vermont,7,26.2,33.0,36.3
+Virginia,7,23.3,30.1,33.9
+Washington,7,22.5,29.3,34.2
+West Virginia,7,23.5,26.7,32.2
+Wisconsin,7,17.5,23.5,26.5
+Wyoming,7,18.9,24.2,32.6
+Alabama,8,27.5,33.7,38.0
+Alaska,8,25.7,31.8,37.1
+Arizona,8,28.9,34.7,40.1
+Arkansas,8,28.7,32.7,38.2
+California,8,26.4,34.4,39.1
+Colorado,8,23.0,26.7,31.4
+Connecticut,8,28.7,34.5,39.4
+Delaware,8,22.9,23.6,30.9
+District of Columbia,8,31.0,39.6,43.1
+Florida,8,28.8,33.3,39.7
+Georgia,8,27.9,32.6,36.3
+Hawaii,8,18.3,22.9,29.4
+Idaho,8,23.0,28.3,31.7
+Illinois,8,23.8,30.6,34.2
+Indiana,8,23.7,30.6,35.9
+Iowa,8,26.1,32.4,37.4
+Kansas,8,24.4,29.4,32.9
+Kentucky,8,29.0,33.2,38.3
+Louisiana,8,35.6,41.3,46.8
+Maine,8,19.0,24.1,28.7
+Maryland,8,22.0,30.1,33.3
+Massachusetts,8,22.8,27.9,33.7
+Michigan,8,23.3,27.4,31.9
+Minnesota,8,21.5,25.0,30.6
+Mississippi,8,29.3,31.8,37.6
+Missouri,8,25.0,28.3,32.9
+Montana,8,21.6,27.8,30.9
+Nebraska,8,22.1,25.0,31.2
+Nevada,8,32.5,38.4,45.6
+New Hampshire,8,23.0,31.2,34.4
+New Jersey,8,24.4,30.8,34.1
+New Mexico,8,29.4,39.0,42.5
+New York,8,24.2,26.9,32.9
+North Carolina,8,22.5,29.1,34.1
+North Dakota,8,25.1,28.7,33.0
+Ohio,8,21.5,27.7,31.6
+Oklahoma,8,33.2,39.0,44.5
+Oregon,8,31.0,37.1,42.4
+Pennsylvania,8,27.3,32.7,39.8
+Rhode Island,8,22.1,28.2,32.9
+South Carolina,8,22.4,31.4,34.4
+South Dakota,8,21.7,24.2,31.0
+Tennessee,8,26.8,30.8,36.6
+Texas,8,25.6,32.1,36.2
+Utah,8,27.3,33.3,37.2
+Vermont,8,18.4,25.0,27.9
+Virginia,8,26.9,31.9,36.9
+Washington,8,26.4,30.5,34.7
+West Virginia,8,30.2,34.7,38.4
+Wisconsin,8,15.7,21.3,24.6
+Wyoming,8,17.6,23.7,28.4
+Alabama,9,26.5,28.7,35.9
+Alaska,9,23.8,32.5,35.3
+Arizona,9,32.7,39.7,44.1
+Arkansas,9,29.6,33.5,37.4
+California,9,27.6,32.2,38.1
+Colorado,9,26.1,33.0,37.3
+Connecticut,9,24.0,32.5,35.3
+Delaware,9,25.4,27.4,33.2
+District of Columbia,9,27.6,29.6,39.4
+Florida,9,31.8,37.7,43.8
+Georgia,9,31.4,36.8,40.9
+Hawaii,9,28.2,31.5,38.3
+Idaho,9,29.5,32.9,40.7
+Illinois,9,28.1,33.7,39.6
+Indiana,9,26.2,34.7,38.1
+Iowa,9,23.1,31.5,34.3
+Kansas,9,20.9,28.0,31.4
+Kentucky,9,26.4,33.9,38.5
+Louisiana,9,32.2,40.5,44.9
+Maine,9,23.8,32.0,35.6
+Maryland,9,22.1,29.5,33.6
+Massachusetts,9,24.2,28.7,34.5
+Michigan,9,23.5,29.7,34.8
+Minnesota,9,22.3,25.1,29.9
+Mississippi,9,34.4,36.5,42.1
+Missouri,9,25.6,32.2,35.8
+Montana,9,22.2,25.7,30.6
+Nebraska,9,22.0,27.8,30.5
+Nevada,9,26.8,35.0,39.1
+New Hampshire,9,24.3,27.5,32.4
+New Jersey,9,24.2,30.2,33.9
+New Mexico,9,29.7,32.2,39.1
+New York,9,23.9,30.6,34.3
+North Carolina,9,22.7,30.4,33.4
+North Dakota,9,25.0,29.4,34.0
+Ohio,9,23.3,28.8,34.6
+Oklahoma,9,32.8,36.5,43.0
+Oregon,9,27.1,34.1,38.9
+Pennsylvania,9,26.5,33.4,37.5
+Rhode Island,9,24.0,28.9,35.2
+South Carolina,9,28.9,35.0,39.4
+South Dakota,9,25.1,31.4,35.0
+Tennessee,9,30.5,37.6,42.4
+Texas,9,28.2,35.9,40.7
+Utah,9,26.0,33.0,36.7
+Vermont,9,22.3,29.7,32.8
+Virginia,9,24.2,29.3,33.1
+Washington,9,31.1,37.0,42.0
+West Virginia,9,34.5,40.5,45.1
+Wisconsin,9,19.0,25.5,29.2
+Wyoming,9,23.4,31.6,34.2
+Alabama,10,28.6,34.4,39.6
+Alaska,10,21.5,27.3,32.9
+Arizona,10,31.3,36.6,42.4
+Arkansas,10,30.2,34.7,41.2
+California,10,27.6,32.9,39.4
+Colorado,10,30.0,35.4,42.4
+Connecticut,10,26.3,33.6,39.0
+Delaware,10,22.7,27.3,31.5
+District of Columbia,10,24.9,35.2,37.8
+Florida,10,27.9,37.8,42.0
+Georgia,10,27.1,32.5,38.0
+Hawaii,10,28.9,34.2,37.1
+Idaho,10,25.6,32.7,37.7
+Illinois,10,27.6,35.1,39.4
+Indiana,10,27.7,34.8,39.0
+Iowa,10,17.5,29.6,31.6
+Kansas,10,21.5,32.3,35.8
+Kentucky,10,27.4,36.3,39.9
+Louisiana,10,33.5,38.6,44.8
+Maine,10,26.6,32.8,36.3
+Maryland,10,22.5,32.2,36.1
+Massachusetts,10,21.8,30.1,33.4
+Michigan,10,26.6,31.1,36.7
+Minnesota,10,20.9,27.6,31.1
+Mississippi,10,32.0,40.2,43.7
+Missouri,10,28.8,35.3,40.6
+Montana,10,23.8,31.7,34.3
+Nebraska,10,23.6,25.7,30.9
+Nevada,10,34.6,40.6,44.8
+New Hampshire,10,19.7,32.5,35.7
+New Jersey,10,25.9,33.6,38.2
+New Mexico,10,32.5,38.1,43.3
+New York,10,28.5,34.7,39.7
+North Carolina,10,28.3,33.4,38.4
+North Dakota,10,23.0,29.1,32.6
+Ohio,10,25.6,31.9,34.9
+Oklahoma,10,29.4,39.4,42.9
+Oregon,10,29.9,35.4,39.7
+Pennsylvania,10,26.0,33.2,37.2
+Rhode Island,10,22.8,31.4,34.8
+South Carolina,10,29.3,31.4,38.6
+South Dakota,10,26.7,31.3,35.2
+Tennessee,10,31.7,34.6,41.9
+Texas,10,30.5,36.1,41.6
+Utah,10,25.0,29.1,34.7
+Vermont,10,22.2,29.2,32.2
+Virginia,10,29.5,29.5,38.5
+Washington,10,27.8,37.5,42.0
+West Virginia,10,24.2,31.9,34.6
+Wisconsin,10,24.6,30.7,34.1
+Wyoming,10,26.5,31.5,36.0
+Alabama,11,30.4,34.9,40.1
+Alaska,11,27.4,35.1,39.6
+Arizona,11,33.9,39.9,44.2
+Arkansas,11,34.8,40.0,45.1
+California,11,31.8,39.1,44.5
+Colorado,11,26.1,35.2,39.2
+Connecticut,11,26.7,31.0,35.7
+Delaware,11,23.3,31.0,34.4
+District of Columbia,11,20.8,23.8,28.0
+Florida,11,31.7,39.0,43.6
+Georgia,11,29.0,37.1,43.6
+Hawaii,11,28.3,31.4,36.7
+Idaho,11,27.5,32.4,37.3
+Illinois,11,23.7,28.9,34.0
+Indiana,11,29.4,36.8,40.7
+Iowa,11,17.7,25.2,28.9
+Kansas,11,24.8,28.8,35.2
+Kentucky,11,30.7,37.8,42.2
+Louisiana,11,31.1,40.6,45.4
+Maine,11,22.4,26.9,33.0
+Maryland,11,22.2,29.9,33.6
+Massachusetts,11,23.8,34.2,38.2
+Michigan,11,23.0,31.7,35.6
+Minnesota,11,22.0,27.5,31.5
+Mississippi,11,36.1,38.0,46.5
+Missouri,11,25.8,35.3,38.7
+Montana,11,28.5,35.6,40.2
+Nebraska,11,26.4,31.3,34.1
+Nevada,11,33.3,42.8,46.4
+New Hampshire,11,28.7,28.9,35.1
+New Jersey,11,28.7,37.1,42.0
+New Mexico,11,30.1,38.6,41.7
+New York,11,25.0,34.2,38.3
+North Carolina,11,26.4,34.0,38.3
+North Dakota,11,25.2,30.5,33.3
+Ohio,11,21.2,31.7,34.8
+Oklahoma,11,30.8,40.1,44.7
+Oregon,11,31.7,38.6,43.9
+Pennsylvania,11,27.5,34.2,40.3
+Rhode Island,11,31.1,36.5,42.0
+South Carolina,11,25.3,30.7,34.3
+South Dakota,11,24.1,32.6,34.7
+Tennessee,11,31.4,38.2,41.9
+Texas,11,32.2,40.6,45.9
+Utah,11,24.2,29.5,34.3
+Vermont,11,20.7,33.4,35.4
+Virginia,11,24.0,32.6,35.2
+Washington,11,27.2,35.7,40.5
+West Virginia,11,29.4,36.1,40.9
+Wisconsin,11,24.6,31.1,36.6
+Wyoming,11,21.7,29.4,33.0
+Alabama,12,32.7,39.9,43.3
+Alaska,12,27.4,33.8,38.8
+Arizona,12,34.3,41.3,44.9
+Arkansas,12,33.7,36.8,43.5
+California,12,31.2,38.9,44.1
+Colorado,12,29.1,38.0,41.5
+Connecticut,12,25.9,30.4,35.1
+Delaware,12,26.5,29.0,36.6
+District of Columbia,12,23.8,33.9,36.1
+Florida,12,30.7,35.1,40.5
+Georgia,12,29.7,35.5,40.0
+Hawaii,12,29.3,37.2,41.3
+Idaho,12,34.2,37.3,45.5
+Illinois,12,29.5,38.0,43.2
+Indiana,12,32.0,36.8,42.0
+Iowa,12,25.3,31.3,37.8
+Kansas,12,30.5,34.8,39.9
+Kentucky,12,30.6,35.9,41.7
+Louisiana,12,31.7,38.5,43.1
+Maine,12,25.3,35.7,37.8
+Maryland,12,29.5,33.2,39.3
+Massachusetts,12,23.7,31.1,35.2
+Michigan,12,28.6,36.3,40.7
+Minnesota,12,24.2,32.2,35.7
+Mississippi,12,36.5,38.6,48.0
+Missouri,12,24.8,34.9,37.9
+Montana,12,28.4,27.5,36.0
+Nebraska,12,25.2,30.0,37.3
+Nevada,12,38.6,43.7,46.8
+New Hampshire,12,28.8,34.0,40.7
+New Jersey,12,26.8,34.2,37.6
+New Mexico,12,37.6,44.7,47.5
+New York,12,29.3,36.2,41.1
+North Carolina,12,30.5,33.1,39.5
+North Dakota,12,26.8,30.3,33.8
+Ohio,12,24.9,32.8,37.1
+Oklahoma,12,33.5,39.6,44.1
+Oregon,12,36.4,45.4,50.2
+Pennsylvania,12,20.5,29.2,31.8
+Rhode Island,12,25.9,41.8,44.5
+South Carolina,12,32.3,35.7,42.3
+South Dakota,12,27.6,27.6,35.4
+Tennessee,12,33.7,40.1,43.6
+Texas,12,32.4,38.4,44.3
+Utah,12,28.5,34.6,37.8
+Vermont,12,21.4,29.2,33.2
+Virginia,12,27.0,34.2,38.3
+Washington,12,32.2,37.1,43.8
+West Virginia,12,28.0,31.1,37.0
+Wisconsin,12,23.9,29.9,33.3
+Wyoming,12,31.6,38.8,41.3
+Alabama,13,27.7,30.6,37.2
+Alaska,13,22.2,30.5,34.8
+Arizona,13,26.4,30.4,35.1
+Arkansas,13,23.9,30.5,35.3
+California,13,25.9,32.4,38.0
+Colorado,13,24.5,32.6,37.6
+Connecticut,13,23.8,33.9,38.8
+Delaware,13,20.1,24.6,30.5
+District of Columbia,13,23.8,30.6,35.3
+Florida,13,27.8,33.7,39.4
+Georgia,13,26.8,31.3,38.7
+Hawaii,13,22.8,35.4,40.0
+Idaho,13,22.8,28.7,32.6
+Illinois,13,23.5,33.7,38.2
+Indiana,13,25.4,32.0,38.2
+Iowa,13,20.0,28.0,33.2
+Kansas,13,24.3,32.0,35.9
+Kentucky,13,27.9,34.6,38.7
+Louisiana,13,26.9,37.1,39.7
+Maine,13,23.8,34.9,39.3
+Maryland,13,21.3,30.9,34.1
+Massachusetts,13,22.3,31.5,35.8
+Michigan,13,24.1,30.6,36.7
+Minnesota,13,18.3,28.6,31.8
+Mississippi,13,23.6,27.7,33.2
+Missouri,13,23.7,27.8,33.5
+Montana,13,18.6,27.9,30.7
+Nebraska,13,20.9,28.0,32.0
+Nevada,13,26.9,35.2,40.4
+New Hampshire,13,19.8,28.4,31.5
+New Jersey,13,24.7,33.3,37.8
+New Mexico,13,27.8,35.2,38.9
+New York,13,22.5,29.9,34.4
+North Carolina,13,20.5,28.4,32.3
+North Dakota,13,17.8,26.4,29.6
+Ohio,13,24.9,31.7,37.3
+Oklahoma,13,25.9,34.0,38.6
+Oregon,13,26.1,34.8,38.4
+Pennsylvania,13,23.8,31.0,35.7
+Rhode Island,13,19.2,29.9,34.2
+South Carolina,13,20.4,24.5,30.4
+South Dakota,13,15.2,20.9,24.2
+Tennessee,13,28.3,34.8,38.4
+Texas,13,25.7,31.1,37.1
+Utah,13,22.7,30.4,34.4
+Vermont,13,19.5,28.0,32.0
+Virginia,13,25.1,30.5,35.2
+Washington,13,23.6,32.7,37.2
+West Virginia,13,25.2,29.0,34.5
+Wisconsin,13,20.2,25.2,29.1
+Wyoming,13,21.9,32.8,35.6
+Alabama,14,25.2,33.7,38.1
+Alaska,14,23.6,28.4,33.6
+Arizona,14,26.5,33.4,39.0
+Arkansas,14,29.8,36.0,41.1
+California,14,27.6,34.2,39.1
+Colorado,14,22.7,33.4,36.7
+Connecticut,14,21.2,33.1,36.1
+Delaware,14,23.3,29.8,33.3
+District of Columbia,14,20.9,33.3,36.3
+Florida,14,25.3,31.3,36.4
+Georgia,14,23.2,31.1,34.3
+Hawaii,14,29.4,34.4,39.4
+Idaho,14,21.8,31.2,35.3
+Illinois,14,24.2,32.6,37.6
+Indiana,14,20.7,30.0,33.1
+Iowa,14,22.8,26.8,32.0
+Kansas,14,19.3,28.7,32.5
+Kentucky,14,30.1,34.2,40.3
+Louisiana,14,30.3,36.8,41.7
+Maine,14,20.4,29.8,33.7
+Maryland,14,23.3,29.8,35.4
+Massachusetts,14,20.5,28.7,32.7
+Michigan,14,23.4,32.4,36.2
+Minnesota,14,18.6,26.0,30.6
+Mississippi,14,28.4,31.3,38.6
+Missouri,14,21.8,29.0,33.1
+Montana,14,22.2,29.6,33.1
+Nebraska,14,21.7,25.7,30.4
+Nevada,14,27.1,32.1,37.6
+New Hampshire,14,22.1,31.6,34.9
+New Jersey,14,21.9,30.7,35.4
+New Mexico,14,27.5,34.7,40.2
+New York,14,25.1,33.5,37.7
+North Carolina,14,20.9,27.4,32.2
+North Dakota,14,17.4,22.2,26.3
+Ohio,14,25.4,32.1,36.4
+Oklahoma,14,26.5,34.5,38.4
+Oregon,14,26.7,36.9,40.9
+Pennsylvania,14,22.9,29.8,34.7
+Rhode Island,14,25.3,31.1,34.9
+South Carolina,14,22.9,27.7,31.6
+South Dakota,14,20.2,24.7,29.9
+Tennessee,14,24.0,27.6,32.4
+Texas,14,26.9,32.6,38.2
+Utah,14,22.0,29.2,33.3
+Vermont,14,19.6,30.2,34.5
+Virginia,14,22.4,29.1,33.3
+Washington,14,22.7,30.8,35.4
+West Virginia,14,26.9,33.5,38.4
+Wisconsin,14,19.3,27.5,31.3
+Wyoming,14,23.6,29.4,33.6
+Alabama,15,28.6,30.8,37.2
+Alaska,15,25.2,29.9,35.5
+Arizona,15,28.2,34.9,39.3
+Arkansas,15,23.1,28.7,31.6
+California,15,28.7,37.2,42.3
+Colorado,15,25.2,34.2,37.7
+Connecticut,15,19.0,30.4,33.5
+Delaware,15,18.3,24.8,28.0
+District of Columbia,15,27.5,40.2,46.4
+Florida,15,25.4,32.8,36.4
+Georgia,15,25.0,32.0,35.3
+Hawaii,15,24.0,28.7,33.3
+Idaho,15,22.8,29.3,33.2
+Illinois,15,23.9,30.8,36.3
+Indiana,15,24.5,31.8,36.6
+Iowa,15,25.5,27.5,34.2
+Kansas,15,22.9,30.6,35.2
+Kentucky,15,30.7,32.4,39.8
+Louisiana,15,29.6,38.5,44.5
+Maine,15,17.5,31.5,33.5
+Maryland,15,20.3,30.6,35.3
+Massachusetts,15,23.2,32.2,38.4
+Michigan,15,21.0,28.6,33.2
+Minnesota,15,17.4,26.9,30.5
+Mississippi,15,28.5,35.0,38.0
+Missouri,15,22.7,29.9,33.8
+Montana,15,24.4,33.1,38.2
+Nebraska,15,19.2,27.6,30.8
+Nevada,15,31.3,35.6,42.8
+New Hampshire,15,19.0,29.4,32.2
+New Jersey,15,23.7,34.9,38.3
+New Mexico,15,29.1,38.0,43.2
+New York,15,23.5,32.3,36.2
+North Carolina,15,21.5,28.7,32.6
+North Dakota,15,19.0,23.2,27.7
+Ohio,15,24.7,32.3,36.5
+Oklahoma,15,23.1,29.2,34.5
+Oregon,15,31.8,41.1,47.6
+Pennsylvania,15,24.1,30.7,34.6
+Rhode Island,15,23.4,33.4,38.3
+South Carolina,15,20.6,31.8,35.3
+South Dakota,15,17.0,22.5,27.3
+Tennessee,15,25.9,30.5,35.6
+Texas,15,28.0,33.2,39.5
+Utah,15,26.8,33.9,38.5
+Vermont,15,22.9,33.0,36.6
+Virginia,15,24.6,31.1,36.5
+Washington,15,25.7,34.6,39.9
+West Virginia,15,28.0,36.4,39.2
+Wisconsin,15,19.4,28.4,30.8
+Wyoming,15,22.4,29.1,33.2
+Alabama,16,25.0,29.4,33.6
+Alaska,16,27.1,32.6,37.4
+Arizona,16,25.0,31.7,37.8
+Arkansas,16,30.2,35.4,42.3
+California,16,29.4,36.2,42.4
+Colorado,16,23.8,32.8,37.5
+Connecticut,16,22.9,28.4,34.6
+Delaware,16,24.6,32.8,39.0
+District of Columbia,16,19.9,34.8,37.1
+Florida,16,26.0,31.7,37.8
+Georgia,16,23.9,29.0,34.7
+Hawaii,16,30.1,30.6,40.2
+Idaho,16,21.0,29.4,33.3
+Illinois,16,24.1,32.2,36.6
+Indiana,16,23.1,30.1,34.3
+Iowa,16,19.6,26.8,29.6
+Kansas,16,22.7,32.3,36.2
+Kentucky,16,31.5,37.8,42.8
+Louisiana,16,28.4,36.9,41.5
+Maine,16,24.4,33.2,36.3
+Maryland,16,24.4,30.6,36.9
+Massachusetts,16,22.5,34.2,37.6
+Michigan,16,25.6,32.9,37.0
+Minnesota,16,19.9,26.2,30.7
+Mississippi,16,25.1,30.6,35.1
+Missouri,16,25.5,30.7,36.4
+Montana,16,19.9,27.8,32.8
+Nebraska,16,20.9,28.7,32.5
+Nevada,16,29.2,39.3,43.3
+New Hampshire,16,19.8,27.3,31.4
+New Jersey,16,22.5,34.7,39.1
+New Mexico,16,26.1,33.9,41.1
+New York,16,23.3,30.7,35.2
+North Carolina,16,25.7,29.7,35.8
+North Dakota,16,16.6,24.7,27.8
+Ohio,16,25.5,33.6,38.5
+Oklahoma,16,27.2,33.9,38.1
+Oregon,16,24.9,35.1,39.0
+Pennsylvania,16,25.1,32.6,37.7
+Rhode Island,16,22.4,29.5,35.1
+South Carolina,16,20.3,28.3,32.9
+South Dakota,16,19.0,26.9,31.3
+Tennessee,16,24.5,30.7,36.2
+Texas,16,29.0,33.2,38.8
+Utah,16,23.5,31.1,36.1
+Vermont,16,30.1,36.9,44.0
+Virginia,16,23.1,28.7,32.9
+Washington,16,25.2,34.5,38.5
+West Virginia,16,27.5,37.1,42.8
+Wisconsin,16,21.6,30.7,34.5
+Wyoming,16,22.2,27.0,33.1
+Alabama,17,27.7,29.9,36.0
+Alaska,17,25.7,33.0,38.5
+Arizona,17,30.8,35.1,39.8
+Arkansas,17,27.3,32.0,38.5
+California,17,27.7,35.3,39.9
+Colorado,17,26.1,34.1,37.7
+Connecticut,17,21.8,32.5,36.9
+Delaware,17,23.3,31.7,34.3
+District of Columbia,17,26.2,35.1,40.1
+Florida,17,25.9,30.3,35.7
+Georgia,17,25.1,33.2,37.8
+Hawaii,17,27.5,32.2,38.8
+Idaho,17,25.9,31.2,35.9
+Illinois,17,24.2,30.5,34.8
+Indiana,17,27.2,35.3,38.8
+Iowa,17,22.4,29.9,33.4
+Kansas,17,26.2,34.8,39.6
+Kentucky,17,29.5,35.3,41.9
+Louisiana,17,31.6,33.6,41.2
+Maine,17,22.8,32.5,35.9
+Maryland,17,23.8,33.0,37.1
+Massachusetts,17,25.3,33.8,37.8
+Michigan,17,25.8,31.3,37.0
+Minnesota,17,19.3,25.9,30.6
+Mississippi,17,33.4,35.9,41.5
+Missouri,17,29.4,35.2,40.8
+Montana,17,20.1,29.4,34.8
+Nebraska,17,21.8,28.6,33.3
+Nevada,17,31.0,37.1,41.9
+New Hampshire,17,20.8,26.5,31.0
+New Jersey,17,23.4,31.0,35.7
+New Mexico,17,31.9,39.5,46.3
+New York,17,27.0,34.3,38.9
+North Carolina,17,21.4,27.0,32.4
+North Dakota,17,20.2,28.0,30.9
+Ohio,17,25.0,31.7,37.2
+Oklahoma,17,25.9,34.8,39.3
+Oregon,17,26.9,36.6,41.4
+Pennsylvania,17,22.2,31.6,35.4
+Rhode Island,17,24.0,35.6,39.1
+South Carolina,17,25.1,32.8,36.5
+South Dakota,17,19.7,24.2,28.7
+Tennessee,17,23.9,32.0,37.8
+Texas,17,29.4,34.7,41.4
+Utah,17,22.4,29.1,33.1
+Vermont,17,21.5,33.3,36.1
+Virginia,17,23.8,30.0,35.6
+Washington,17,28.4,35.9,41.7
+West Virginia,17,25.2,31.9,36.0
+Wisconsin,17,22.7,32.1,36.0
+Wyoming,17,20.8,28.3,32.0
+Alabama,18,33.8,35.3,44.8
+Alaska,18,27.1,32.7,38.2
+Arizona,18,27.2,35.5,40.3
+Arkansas,18,28.3,38.8,41.6
+California,18,29.7,38.2,43.7
+Colorado,18,29.2,40.5,43.3
+Connecticut,18,26.6,38.2,41.8
+Delaware,18,28.0,37.7,41.5
+District of Columbia,18,31.1,45.6,50.1
+Florida,18,30.1,38.3,43.6
+Georgia,18,30.9,39.0,46.4
+Hawaii,18,30.1,37.0,43.4
+Idaho,18,28.1,35.3,42.2
+Illinois,18,28.5,36.2,41.8
+Indiana,18,29.4,35.0,40.9
+Iowa,18,29.4,41.0,44.3
+Kansas,18,30.9,40.4,43.6
+Kentucky,18,27.1,37.6,40.8
+Louisiana,18,30.3,37.6,42.3
+Maine,18,27.8,40.5,43.8
+Maryland,18,24.7,35.7,39.7
+Massachusetts,18,28.2,37.6,42.8
+Michigan,18,22.2,31.1,34.8
+Minnesota,18,23.8,33.6,37.1
+Mississippi,18,28.8,37.8,42.7
+Missouri,18,27.5,35.5,40.3
+Montana,18,22.9,36.6,39.4
+Nebraska,18,23.8,33.0,38.1
+Nevada,18,34.0,39.9,47.3
+New Hampshire,18,21.5,36.0,39.2
+New Jersey,18,23.2,33.5,36.9
+New Mexico,18,32.6,40.1,44.2
+New York,18,22.0,33.0,36.5
+North Carolina,18,27.6,36.0,42.3
+North Dakota,18,17.0,22.3,25.5
+Ohio,18,26.7,37.1,42.0
+Oklahoma,18,27.1,40.0,43.3
+Oregon,18,29.0,38.4,44.1
+Pennsylvania,18,27.8,36.1,41.3
+Rhode Island,18,25.6,38.6,42.3
+South Carolina,18,28.2,37.3,41.4
+South Dakota,18,20.0,28.6,32.3
+Tennessee,18,25.0,32.5,36.7
+Texas,18,31.2,37.2,44.4
+Utah,18,24.3,33.0,36.4
+Vermont,18,30.0,37.3,43.8
+Virginia,18,24.0,30.5,36.7
+Washington,18,24.4,34.7,38.8
+West Virginia,18,25.7,35.7,39.3
+Wisconsin,18,27.0,36.0,39.2
+Wyoming,18,23.5,30.0,37.0
