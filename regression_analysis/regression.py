@@ -5,55 +5,71 @@ from sklearn import datasets, linear_model
 from sklearn.metrics import mean_squared_error, r2_score
 import os
 import matplotlib.pyplot as plt
+from sklearn.model_selection import KFold
+import statistics
+import json
 
 def main():
+    # kfold = 2
     np.random.seed(r) # set random seed
     ## import data ##
     data = pd.read_csv("Clean_Data/final_data.csv")
     states = data['State'].unique()
+    
+    possible_features = data.columns[5:]
+    possible_labels = ['Mix_Score', 'Depression_Score', 'Anxiety_Score']
+    
+    final = {}
 
     for state in states:
-        state_data = data.copy().loc[data['State'] == state]
-        
-        if state_data.shape[0] == 0:
-            continue
+        for label in possible_labels:
+            for feature in possible_features:
 
-        X = state_data.iloc[:,5:] # feature columns
-        y = state_data.iloc[:,2:4] # label column
+                state_data = data.copy().loc[data['State'] == state].reset_index(drop=True)
+                X = state_data.loc[:,feature] # feature columns
+                y = state_data.loc[:,label] # label column
+                
+                # if state_data.shape[0] <= len(X.columns):
+                #     continue
+                # elif kfold > state_data.shape[0]:
+                #     kfold = state_data.shape[0]
+                # kf = kfold_validation(X, kfold)
+                # test_errors = []
+                # for train_index, test_index in kf.split(y):
+                # split += 1
+                # train_data, test_data = X.loc[train_index], X.loc[test_index]
+                # train_label, test_label = y.loc[train_index], y.loc[test_index]
 
-        ## train test split ##
+                ## train test split ##
+                train_data, test_data, train_label, test_label = train_test_split(
+                    X, y, test_size= 0.2)
 
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size= 0.2)
+                ## Regression ##
+                regr = linear_model.LinearRegression()
+                # regr = linear_model.LogisticRegression()
+                train_data_reshaped = train_data.to_numpy().reshape(-1, 1)
+                test_data_reshaped = test_data.to_numpy().reshape(-1, 1)
 
-        ## Regression ##
-        regr = linear_model.LinearRegression()
-        # regr = linear_model.LogisticRegression()
-        lm = regr.fit(X_train, y_train) # train on training data
-        score = regr.score(X, y)
-        y_pred = regr.predict(X_test) # test on testing data
+                lm = regr.fit(train_data_reshaped, train_label) # train on training data
+                score = regr.score(test_data_reshaped, test_label)
+                y_pred = regr.predict(test_data_reshaped) # test on testing data
+                
+                if not label in final:
+                    final[label] = {}
+                if state in final[label]:
+                    if score > final[label][state][1]:
+                        final[label][state] = [feature, score]
+                else:
+                    final[label][state] = [feature, score]
 
-        ## Analyze Results ##
-        # print('Coefficients: \n', regr.coef_) # The coefficients
-        # print('Mean squared error: %.2f'
-            # % mean_squared_error(y_test, y_pred)) # The mean squared error
-        # The coefficient of determination: 1 is perfect prediction
-        # print('Coefficient of determination: %.2f'
-            # % r2_score(y_test, y_pred))
-
-        print("State: ", state)
-        print("R^2: ", score)
-
-        ## Plot outputs ##
-        # plt.scatter(X_test, y_pred,  color='black')
-        # plt.plot(X_test, y_pred, color='blue', linewidth=3)
-        # plt.xticks(())
-        # plt.yticks(())
-        # plt.savefig("regression_analysis/charts/regression.png")
-        # plt.show()
+                if state_data.shape[0] == 0:
+                    continue
+    
+    with open("final.json", "w") as outfile:  
+        json.dump(final, outfile) 
+    # print(final)
 
 if __name__ == "__main__":
     ## initialize variables ## 
-    r = 2010
-
+    r = 420
     main()
