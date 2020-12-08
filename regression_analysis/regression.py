@@ -51,8 +51,8 @@ def main():
                 test_data_reshaped = test_data.to_numpy().reshape(-1, 1)
 
                 lm = regr.fit(train_data_reshaped, train_label) # train on training data
-                score = regr.score(test_data_reshaped, test_label)
-                y_pred = regr.predict(test_data_reshaped) # test on testing data
+                score = regr.score(train_data_reshaped, train_label)
+                # y_pred = regr.predict(test_data_reshaped) # test on testing data
                 
                 if not label in final:
                     final[label] = {}
@@ -67,9 +67,8 @@ def main():
     
     with open("final.json", "w") as outfile:  
         json.dump(final, outfile) 
-    # print(final)
 
 if __name__ == "__main__":
     ## initialize variables ## 
-    r = 420
+    r = 2010
     main()
